@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music and videogames
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on my own projects
-- 📫 My mail is m1wrt.proton.me
+- 📫 My mail is m1wrt@proton.me
 - 😄 Pronouns: he
 - ⚡ Fun fact: I am from Venezuela
 
